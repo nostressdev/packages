@@ -27,7 +27,8 @@ const List<String> _kBlockTags = <String>[
   'table',
   'thead',
   'tbody',
-  'tr'
+  'tr',
+  'more'
 ];
 
 const List<String> _kListTags = <String>['ul', 'ol'];
